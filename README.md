@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning [Kubernetes](https://kubernetes.io/) and [Godot](https://godotengine.org/)
 - 👯 I'm looking to collaborate with other developers!
 - 🥅 2020 Goals: Contribute to more open source projects!
-- ⚡ Fun Fact: I also have a [Twitch](https://www.twitch.tv/emptyspacehuman) where I stream games for charity
+- ⚡ Fun Fact: I also have a [Twitch](https://www.twitch.tv/thatempty_space) where I stream games for charity
 
 ### Connect with me:
 

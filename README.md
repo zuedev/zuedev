@@ -4,5 +4,15 @@
 
 <hr/>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zuedev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/zuedev/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zuedev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/zuedev/github-readme-stats#gh-light-mode-only)
+<!-- GitHub Stats -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zuedev&show_icons=true&theme=dark&hide_border=true&border_radius=0"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zuedev&show_icons=true&hide_border=true&border_radius=0"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zuedev&show_icons=true&hide_border=true&border_radius=0" />
+</picture>

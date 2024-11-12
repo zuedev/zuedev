@@ -43,11 +43,3 @@ What don't I do? I have a backlog of games to play, music to make, and projects 
 ### For Charity ❤️
 
 I'm currently working on directing a non-profit project called [Unnamed Group](https://unnamed.group/) to help support people online who are looking for a safe space to play games and socialise.
-
-<br/>
-<br/>
-
-## Here's some cool stats! 📊
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=zuedev&show_icons=true&hide_border=true&border_radius=0" />

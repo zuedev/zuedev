@@ -15,7 +15,7 @@ If you want to learn more about me, check out my [resume](https://zue.dev/resume
 
 - Software engineer (full-stack) for more than 12 years;
 - Trusted with leadership for 9 of those years;
-- Given directorship of a [non-profit](https://unnamed.group/) since 2023;
+- Director of a [non-profit](https://unnamed.group/) since 2016;
 - Programming polyglot (JavaScript, Python, C#, and more);
 - Running Linux (Arch), Windows, and macOS on a daily basis;
 - Been living in the Unreal Engine for ~4 years;

@@ -11,7 +11,7 @@
 
 I'm a software engineer and entrepreneur from the UK who thrives on building things that help and entertain people.
 
-If you want to learn more about me, check out my [resume](https://zue.dev/resume/index.html). In short:
+If you want to learn more about me, check out my [resume](https://zue.dev/resume). In short:
 
 - Software engineer (full-stack) for more than 12 years;
 - Trusted with leadership for 9 of those years;

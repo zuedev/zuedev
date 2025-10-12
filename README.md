@@ -43,3 +43,13 @@ What don't I do? I have a backlog of games to play, music to make, and projects 
 ### For Charity ❤️
 
 I'm currently working on directing a non-profit project called [Unnamed Group](https://unnamed.group/) to help support people online who are looking for a safe space to play games and socialise.
+
+<br/>
+<br/>
+
+## Looking for older projects? 🗄️
+
+I only use my GitHub profile for projects I'm actively working on or contributing to. If you're looking for older projects, check out:
+
+- My personal site: [zue.dev](https://zue.dev)
+- My archive organization: [zuedev-archive](https://github.com/zuedev-archive)

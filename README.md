@@ -11,7 +11,7 @@
 
 I'm a software engineer and entrepreneur from the UK who thrives on building things that help and entertain people.
 
-If you want to learn more about me, check out my [resume](https://zue.dev/resume). In short:
+If you want to learn more about me, check out my [resume](https://zue.dev/cv). In short:
 
 - Software engineer (full-stack) for more than 12 years;
 - Trusted with leadership for 9 of those years;
@@ -19,7 +19,7 @@ If you want to learn more about me, check out my [resume](https://zue.dev/resume
 - Programming polyglot (JavaScript, Python, C#, and more);
 - Running Linux (Arch), Windows, and macOS on a daily basis;
 - Been living in the Unreal Engine for ~4 years;
-- Started [mentoring](https://zue.dev/mentoring) the next generation of developers in 2021;
+- Started [mentoring](https://about.zue.dev/mentoring) the next generation of developers in 2021;
 
 ### Informally...
 
@@ -34,7 +34,7 @@ I'm always working on something... There's not enough time in the day to do ever
 
 ### For Money 💵
 
-Money makes the world go round, unfortunately... That's why I founded and run both [Termina One](https://termina.one/) and [Area96 Digital](https://area96.digital/) to help build capital for my other projects.
+Money makes the world go round, unfortunately... That's why I founded and run both [Termina One](https://t1.zue.dev/) and [Area96 Digital](https://96.zue.dev/) to help build capital for my other projects.
 
 ### For Fun 🎉
 
